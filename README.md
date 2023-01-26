@@ -7,7 +7,7 @@ Owner and contributor of <a href="https://azevedorafaela.com" target="_blank">Az
  
 Recently I'm diving into the entrepreneurship world with the mission of expanding the Web3 Community through <a href="https://cryptacademy.co" target="_blank"><img src="https://img.shields.io/static/v1?label=_&message=Cryptacademy&color=lightgrey"></a>
 
-You can contact me via   <a href="rafaela.azevedosouza@gmail.com" target="_blank">📧 rafaela.azevedosouza@gmail.com</a>
+You can contact me via   <a href="rafaela@thechainacademy.dev" target="_blank">📧 rafaela.azevedosouza@gmail.com</a>
 <div align="left">
   <p></p>
   <a href="https://www.linkedin.com/in/azevedorafaela/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
