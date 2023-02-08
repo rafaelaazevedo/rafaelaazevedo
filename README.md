@@ -3,7 +3,7 @@
 
 Software Development Engineer in Test (aka QA, SDET, Test Automation Architect, QA Consultant), but on my free time I adventure myself to develop some side projects in one of my interests (Blockchain, AI or Web3) 🚀. 
 
-Owner and contributor of <a href="https://azevedorafaela.com" target="_blank">AzevedoRafaela.com</a> where I share my knowledge with the QA Community. I am also an intructor at <a href="https://testautomationu.applitools.com/instructors/rafaela_azevedo.html" target="_blank">Test Automation University</a>, a Google Developer Expert certified and STEM Ambassador
+Owner and contributor of <a href="https://azevedorafaela.com" target="_blank">AzevedoRafaela.com</a> where I share my knowledge with the QA Community. I am also an instructor at <a href="https://testautomationu.applitools.com/instructors/rafaela_azevedo.html" target="_blank">Test Automation University</a>, a Google Developer Expert certified and STEM Ambassador
  
 Recently I'm diving into the entrepreneurship world with the mission of expanding the Web3 Community through <a href="https://thechainacademy.dev" target="_blank"><img src="https://img.shields.io/static/v1?label=_&message=TheChainAcademy&color=purple"></a>
 
