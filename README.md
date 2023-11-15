@@ -1,7 +1,8 @@
 ## 👋 Hi, I’m Rafaela Azevedo
 ---
 
-Software Development Engineer in Test (aka QA, SDET, Test Automation Architect, QA Consultant), but on my free time I adventure myself to develop some side projects in one of my interests (Blockchain, AI or Web3) 🚀. 
+
+🏆 TechWomen100 Award Winner 🏆 Software Development Engineer in Test (aka QA, SDET, Test Automation Architect, QA Consultant), but on my free time I adventure myself to develop some side projects in one of my interests (Blockchain, AI or Web3) 🚀. 
 
 Owner and contributor of <a href="https://azevedorafaela.com" target="_blank">AzevedoRafaela.com</a> where I share my knowledge with the QA Community. I am also an instructor at <a href="https://testautomationu.applitools.com/instructors/rafaela_azevedo.html" target="_blank">Test Automation University</a>, a Google Developer Expert certified and STEM Ambassador
  
